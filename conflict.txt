@@ -1,1 +1,1 @@
-I am a text from second branch.
+I am a text from second
